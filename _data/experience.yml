@@ -7,8 +7,10 @@
    Use of data quality and process improvement methods to prevent revenue leakage.
   description: | # this will include new lines to allow paragraphs
     The revenue stream process in Telecoms has become increasingly complex due to the number of participants and types of services being offered. The revenue leaks may occur at various points along the revenue stream and inefficient control over them may cause an important revenue leakage.
-    
+
     Our Revenue Assurance area perform an end-to-end data analysis of the revenue stream processes and implement controls at points of potencial risk preventing future revenue leakage. We take a comprehensive, process-based view of the causes of revenue leakage by focusing on the processes and systems of the enterprise.
+
+    Skills: <mark>SQL</mark>, <mark>Teradata</mark>, <mark>R</mark>, <mark>Power BI</mark>, <mark>VBA</mark>, <mark>Data Analysis</mark>.
 
 - layout: left
   company: Deloitte
@@ -20,6 +22,8 @@
   description: | # this will include new lines to allow paragraphs
     Project for the implementation of NICE-Actimize solution for the analysis and detection of operations suspected of market abuse following the COS-MAD regulation.
 
+    Skills: <mark>SQL</mark>, <mark>Actimize</mark>, <mark>Excel</mark>, <mark>Projects Management</mark>.
+
 - layout: left
   company: Deloitte
   link: www.ietr.fr
@@ -29,3 +33,5 @@
    Techniques de transmission de l’information à l’aide d’une onde EM portant un moment angulaire orbital.
   description: | # this will include new lines to allow paragraphs
     The main goal of this internship is to look at a signal and information theory point of view how to combine a information carried by the angular momentum (by coding the information on the phase gradient) with modulation classic in phase and quadrature of the carrier.
+
+    Skills: <mark>Matlab</mark>, <mark>Statistics</mark>.
