@@ -1,10 +1,45 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  name: Universidad de Alcalá de Henares
+  dates: 2018 - 2019
+  qualification: MSc Quantitative Finance
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    The Master in Quantitative Finance is aimed at professionals in the world of Finance interested in strengthening their knowledge in areas of mathematical, statistical and computational content, as well as professionals who come from other areas such as engineering or physical or mathematical sciences and who have with these concepts but they are not able to contextualize them in the resolution of financial problems and in the field of business in general.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    Skills: <mark>Data Science in Finance</mark>, <mark>Stochastic Processes</mark>, <mark>Computational Finance</mark>, <mark>Financial Instruments Valuation</mark>, <mark>Econometrics</mark>, <mark>Montecarlo Simulation</mark>
+
+- layout: left
+  name: Universidad Nacional de Educación a Distancia (UNED)
+  dates: 2017 - 2018
+  qualification: Expert Course, Statistical Techniques for Data Analysis
+  description: | # this will include new lines to allow paragraphs
+    The need to extract knowledge from the information collected in a database has become a common factor in scientific research and business development, triggering the demand for training that allows, at least, a fluid communication with experts in data analysis.
+
+    Skills: <mark>Data Science in Finance</mark>, <mark>Stochastic Processes</mark>, <mark>Computational Finance</mark>, <mark>Financial Instruments Valuation</mark>, <mark>Econometrics</mark>, <mark>Montecarlo Simulation</mark>
+
+- layout: left
+  name:  Universidad Europea Miguel de Cervantes and Telefónica I+D
+  dates: 2016 - 2017
+  qualification: MSc Big Data and Business Intelligence
+  description: | # this will include new lines to allow paragraphs
+    Skills: <mark>Python</mark>, <mark>R</mark>, <mark>SQL</mark>, <mark>Machine Learning</mark>, <mark>Spark</mark>, <mark>Tableau</mark>
+
+- layout: left
+  name:  Universidad Europea de Madrid
+  dates: 2015 - 2016
+  qualification: MSc Telecommunications Engineering
+  description: | # this will include new lines to allow paragraphs
+    Skills: <mark>Statistics</mark>, <mark>Signal Processing</mark>, <mark>Calculus</mark>, <mark>Python</mark>, <mark>Recommender Systems</mark>
+
+- layout: left
+  name:  INSA Rennes
+  dates: 2014 - 2015
+  qualification: MSc Communication Systems and Networks
+  quote: >
+   Erasmus+ Program.
+
+- layout: left
+  name:  Universidad de Granada
+  dates: 2009 - 2015
+  qualification: BSc Telecommunications Engineering
+  description: | # this will include new lines to allow paragraphs
+    Skills: <mark>Statistics</mark>, <mark>Signal Processing</mark>, <mark>Calculus</mark>, <mark>Matlab</mark>
